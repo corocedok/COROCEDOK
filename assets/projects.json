@@ -1,0 +1,9 @@
+{
+  "_comment": "Repos destacados, en orden. Estrellas y lenguaje vienen de la API en cada ejecución.",
+  "projects": [
+    {
+      "repo": "MIPORTAFOLIO",
+      "description": "Mi portafolio personal hecho con React y Bootstrap, con datos en JSON y pruebas unitarias con Karma."
+    }
+  ]
+}

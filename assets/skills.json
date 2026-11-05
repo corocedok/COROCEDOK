@@ -1,0 +1,34 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Autoevaluación 0-100 (valores de ejemplo: edítalos). El workflow redibuja el radar.",
+  "axes": [
+    {
+      "label": "HTML / CSS",
+      "value": 65
+    },
+    {
+      "label": "JavaScript / React",
+      "value": 45
+    },
+    {
+      "label": "Python",
+      "value": 60
+    },
+    {
+      "label": "Java",
+      "value": 55
+    },
+    {
+      "label": "Kotlin / Android",
+      "value": 50
+    },
+    {
+      "label": "Ciberseguridad",
+      "value": 45
+    },
+    {
+      "label": "Cloud / AWS",
+      "value": 35
+    }
+  ]
+}
